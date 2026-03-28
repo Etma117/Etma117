@@ -5,9 +5,12 @@
 ██╔════╝╚══██╔══╝████╗ ████║██╔══██╗██╔════╝██║
 █████╗     ██║   ██╔████╔██║███████║█████╗  ██║
 ██╔══╝     ██║   ██║╚██╔╝██║██╔══██║██╔══╝  ██║
-███████╗   ██║   ██║ ╚═╝ ██║██║  ██║███████╗███████╗
-╚══════╝   ╚═╝   ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝
+     ███████╗   ██║   ██║ ╚═╝ ██║██║  ██║███████╗███████╗
+     ╚══════╝   ╚═╝   ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝
 ```
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=52&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Rene+Etmael+Fuentes+Gomez;Full+Stack+Engineer;EDM+Producer+%2F%2F+Etmae" alt="Typing SVG" />
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=Etma117&label=Profile+views&color=6e40c9&style=flat-square" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20collaborate-6e40c9?style=flat-square" />
@@ -201,9 +204,9 @@ REFERENCE PALETTE:
 
 | | |
 |---|---|
-| LinkedIn | *(add link)* |
-| Email | *(add email)* |
-| Music | *(SoundCloud / Spotify / Bandcamp)* |
+| LinkedIn | *[LinkedIn](https://www.linkedin.com/in/rene-etmael-fuentes-gomez-etmae/)* |
+| Email | *reneetmaelfg@gmail.com* |
+| Music | [Spotify](https://open.spotify.com/intl-es/artist/7fWUYFa97FKwkz8XJ2JWGS?si=cmYhalrXRke1Hj6YpXWGBQ)  [SoundCloud](https://soundcloud.com/etmaemusic)  [Youtube](https://www.youtube.com/@etmae)|
 
 ---
 
