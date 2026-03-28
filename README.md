@@ -1,137 +1,220 @@
-<h1 align="center">Etmael</h1>
-<h3 align="center">Full Stack Software Engineer | ITC Engineer (Licensed) | EDM Producer (Etmae)</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Etma117">
-    <img src="https://komarev.com/ghpvc/?username=Etma117&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
-</p>
+```
+███████╗████████╗███╗   ███╗ █████╗ ███████╗██╗
+██╔════╝╚══██╔══╝████╗ ████║██╔══██╗██╔════╝██║
+█████╗     ██║   ██╔████╔██║███████║█████╗  ██║
+██╔══╝     ██║   ██║╚██╔╝██║██╔══██║██╔══╝  ██║
+███████╗   ██║   ██║ ╚═╝ ██║██║  ██║███████╗███████╗
+╚══════╝   ╚═╝   ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝
+```
 
----
+<img src="https://komarev.com/ghpvc/?username=Etma117&label=Profile+views&color=6e40c9&style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20collaborate-6e40c9?style=flat-square" />
+<img src="https://img.shields.io/badge/Location-Tlaxcala%2C%20México-444?style=flat-square" />
 
-## Professional Profile
+<br/>
+<sub>Full Stack Engineer &nbsp;·&nbsp; Licensed ITC Engineer &nbsp;·&nbsp; EDM Producer</sub>
 
-Licensed **Information and Communication Technologies Engineer**, specialized in **Agile Software Development**, with experience building **ERP systems, automation platforms, and scalable web applications**.
-
-Additionally, I have over **10 years of experience in music production**, applying engineering principles such as **system design, iteration, and optimization** to creative processes.
-
-My work focuses on the intersection of:
-- Software Engineering
-- Automation Systems
-- Digital Creative Workflows
+</div>
 
 ---
 
-## Current Role
+## Profile
 
-**Full Stack Developer — Obsidan Sec.**
+```python
+class Etmael:
+    title      = "Ingeniero en TIC — Cédula Profesional MX"
+    speciality = "Agile Software Development"
+    role       = "Full Stack Developer @ Obsidian Sec."
+    building   = "Artist Suite Platform (private)"
+    learning   = "AWS Cloud Practitioner"
+    vibe       = ["PS1", "Dreamcast", "Y2K"]
 
-- Development of ERP systems
-- Label printing and logistics services
-- Internal business tools
-- Process automation platforms
-
-Focused on performance, scalability, and maintainability.
+    def principle(self):
+        return "Systems can be designed, iterated and optimized — including creative ones."
+```
 
 ---
 
-## Professional Experience
+## Current Role — Obsidian Sec.
 
-Experience in **large-scale private systems**, including:
+Development of enterprise-grade internal tools focused on performance, scalability and maintainability.
 
-- Ticket management platforms for high-demand events  
-- Operational and logistics systems  
-- Enterprise internal tools  
+| Area | Description |
+|---|---|
+| ERP Systems | Full stack development of business management platforms |
+| Label Printing | Web services for logistics and label generation |
+| Automation | Internal process automation pipelines |
+| Tooling | Custom internal tools for operational workflows |
 
-> Due to confidentiality agreements, source code is not public.  
-> Technical discussions about architecture and system design are available.
+---
+
+## Private Experience
+
+> Participation in large-scale private systems under confidentiality agreements, including ticket management platforms for high-demand public events and enterprise operational tools.
+>
+> Source code is not public. Architecture and system design discussions are available upon request.
 
 ---
 
 ## Tech Stack
 
+#### Languages & Frameworks
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,react,nextjs,js,html,css,postgres,mysql,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,django,js,ts,react,nextjs,vite,html,css" />
 </p>
 
----
+#### Infrastructure & Tools
 
-## Cloud & Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,linux,git,aws" />
+</p>
 
-- AWS Cloud Practitioner (in progress)
-- Cloud architecture fundamentals
-- Distributed systems
+#### Methodology
 
----
-
-## Engineering + Music
-
-Music is treated as a **parallel professional discipline**.
-
-- 10+ years of EDM production  
-- Advanced DAW workflow (FL Studio)  
-- Focus on sound design and production systems  
-
-### Vision
-
-To build **technology-driven tools for artists**, combining:
-
-- Automation
-- Software platforms
-- Creative systems
+<img src="https://img.shields.io/badge/Scrum-43853d?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 
 ---
 
-## Current Project
+## Cloud Certification
 
-**Artist Suite Platform (Private)**
+```
+AWS Cloud Practitioner
+──────────────────────────────────────────────
+Progress   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░  [ In Progress ]
 
-A platform for independent artists to manage:
-
-- Content and releases  
-- Branding and identity  
-- Automation workflows  
-- Digital presence  
-
-Currently under development — will be released once stable.
+Focus areas:
+  · Cloud architecture fundamentals
+  · Distributed systems & serverless
+  · Scalable infrastructure for SaaS products
+```
 
 ---
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Etma117&show_icons=true&theme=default" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Etma117&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Etma117&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Etma117&theme=default" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Etma117&theme=tokyonight&hide_border=true" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Etma117&layout=compact" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Etma117&theme=tokyo-night&hide_border=true&area=true" />
+</div>
 
 ---
 
-## Professional Goals
+## Current Project
 
-- Build scalable SaaS platforms  
-- Specialize in cloud-based systems  
-- Integrate software engineering with creative industries  
-- Contribute to high-impact international projects  
+```
+╔══════════════════════════════════════════════════════════╗
+║              ARTIST SUITE PLATFORM   [PRIVATE]           ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  Automation platform for independent artists.            ║
+║                                                          ║
+║  · Content & release management                          ║
+║  · Branding & identity workflows                         ║
+║  · Distribution automation                               ║
+║  · Digital presence tooling                              ║
+║                                                          ║
+║  STATUS  ██████████░░░░░░  Building v1.0                 ║
+║  REPO    Private — public release pending stable build   ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+---
+
+## Etmae — Production Side
+
+Engineering discipline applied to music. No team — so the team gets automated.
+
+#### Setup
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**DAW & Processing**
+
+<img src="https://img.shields.io/badge/FL%20Studio-FF6B00?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/iZotope-222222?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Waves-003087?style=flat-square&logoColor=white" />
+
+</td>
+<td valign="top" width="50%">
+
+**Synthesis**
+
+<img src="https://img.shields.io/badge/Serum-8B0000?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Vital-5B2D8E?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/3osc-1a1a1a?style=flat-square&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+#### Sound Identity
+
+```
+REFERENCE PALETTE:
+  PSX       · lo-fi 3D textures, limited bit-depth, grainy warmth
+  Dreamcast · early 3D ambience, pre-HD clarity, analog artifacts
+  Y2K       · glitch, digital excess, early-internet maximalism
+```
+
+---
+
+## Roadmap
+
+```
+2025 — 2026
+──────────────────────────────────────────────
+  [x]  Full stack development at enterprise scale
+  [x]  Private high-impact systems (NDA)
+  [ ]  AWS Cloud Practitioner — certified
+  [ ]  Artist Suite v1.0 — public release
+  [ ]  SaaS platform for independent creators
+  [ ]  Open source contributions
+```
+
+---
+
+## Goals
+
+- Specialize in scalable cloud-based systems
+- Ship Artist Suite as a real SaaS product
+- Bridge software engineering with the independent music industry
+- Contribute to international open source projects
 
 ---
 
 ## Contact
 
-Add your contact information here:
-
-- Email
-- LinkedIn
-- Portfolio (optional)
+| | |
+|---|---|
+| LinkedIn | *(add link)* |
+| Email | *(add email)* |
+| Music | *(SoundCloud / Spotify / Bandcamp)* |
 
 ---
 
-## Philosophy
+<div align="center">
+<sub>
 
-Systems can be designed, optimized, and scaled — including creative processes.
+```
+"The systems I build are instruments. The products are the music."
+```
+
+`Etmael` · `Etma117` · `Etmae` — Tlaxcala, México
+
+</sub>
+</div>
