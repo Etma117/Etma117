@@ -97,7 +97,8 @@ Focus areas:
 
 ---
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="12bcf49d-df1e-4b8d-9b5d-4725ea32359d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img width="360" height="360" alt="aws-certified-cloud-practitioner" src="https://github.com/user-attachments/assets/77107c6d-995f-48fb-89cd-cd7dd3b9726e" />
+
 
 ## GitHub Stats
 
