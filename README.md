@@ -87,7 +87,7 @@ Development of enterprise-grade internal tools focused on performance, scalabili
 ```
 AWS Cloud Practitioner
 ──────────────────────────────────────────────
-Progress   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░  [ In Progress ]
+Progress   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  [ Complete]
 
 Focus areas:
   · Cloud architecture fundamentals
@@ -96,6 +96,8 @@ Focus areas:
 ```
 
 ---
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="12bcf49d-df1e-4b8d-9b5d-4725ea32359d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ## GitHub Stats
 
